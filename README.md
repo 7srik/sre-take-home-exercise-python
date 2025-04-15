@@ -75,6 +75,7 @@ headers (optional): Dictionary of request headers.
 body (optional): JSON string sent in the request body.
 
 ## Example Output
+
 yaml
 Copy
 Edit
